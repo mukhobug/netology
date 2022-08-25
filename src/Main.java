@@ -36,7 +36,7 @@ public class Main {
                 System.out.println(maskWord);
             }
         } while (maskWord.contains("-"));
-        System.out.println("Поздравляем ты выйграл");
+        System.out.println("Поздравляем ты выиграл");
     }
 
     /*
